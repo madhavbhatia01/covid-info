@@ -1,6 +1,8 @@
 <template>
+    <div class="flex flex-">
 
-    <div class="grid md:grid-cols-3 sm:grid-rows-2 sm:grid-cols-2 gap-4 font-myfont mx-4">
+    </div>
+    <div class="grid md:grid-cols-3 md:grid-rows-1 sm:grid-rows-2 sm:grid-cols-2 gap-4 font-myfont mx-4">
         <!-- Box 1 -->
         <div class="shadow-md bg-gray-200 p-10 text-center rounded">
             <h3 class="text-3xl text-gray-700 font-bold mb-4">
@@ -32,7 +34,7 @@
             </div>
         </div>
     <!-- Box 3 -->
-        <div class="shadow-md bg-gray-200 p-10 text-center rounded">
+        <div class="shadow-md bg-gray-200 p-10 text-center rounded md:col-span-1 sm:col-span-2">
             <h3 class="text-3xl text-gray-700 font-bold mb-4">
                 Recovered
             </h3>
