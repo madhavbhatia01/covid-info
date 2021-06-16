@@ -1,7 +1,7 @@
 
 # covid-tracker
 **As it is hosted on free to use service Glitch, it can take about 10-15 seconds for the website to wake up.**
-<br />
+<br /><br />
 A website to view covid cases, deaths and recovered cases.
 <img width="1440" alt="Screenshot 2021-06-15 at 3 17 59 PM" src="https://user-images.githubusercontent.com/71606419/122032418-3d0ae700-cded-11eb-81b6-373d069297e2.png">
 API used from https://covid19api.com
